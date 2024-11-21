@@ -1,0 +1,21 @@
+_pycache_/
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.cache/
+.pytest_cache/
+.idea/
+docs/_build
+.vscode
+.code-workspace
+# esto nos sirve para decirle al github que no debe de subirse
